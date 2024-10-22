@@ -16,10 +16,7 @@ Data distribution is well-balanced with:
 ## Project Structure
 ```
 sentiment_analysis/
-├── data/
-│   ├── Train.csv
-│   ├── Test.csv
-│   └── Valid.csv
+├── data
 ├── sentiment_analysis.ipynb
 ├── License
 └── README.md
