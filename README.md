@@ -21,8 +21,8 @@ sentiment_analysis/
 │   ├── Test.csv
 │   └── Valid.csv
 ├── sentiment_analysis.ipynb
-├── README.md
-└── requirements.txt
+├── License
+└── README.md
 ```
 
 ## Requirements
